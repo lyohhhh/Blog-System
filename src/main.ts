@@ -8,7 +8,7 @@ import './styles/reset.css';
 
 const pinia = createPinia();
 const app = createApp(App);
-
+import NeedUi from 'need-ui';
 app.use(pinia).use(router);
 
 router.isReady().then(() => {

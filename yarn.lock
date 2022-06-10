@@ -3717,6 +3717,17 @@ natural-compare@^1.4.0:
   resolved "https://registry.npmmirror.com/natural-compare/-/natural-compare-1.4.0.tgz#4abebfeed7541f2c27acfb29bdbbd15c8d5ba4f7"
   integrity sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==
 
+need-ui@^0.0.6:
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/need-ui/-/need-ui-0.0.6.tgz#8be30bc68d872f4433d809f47126b0585f62a1e3"
+  integrity sha512-Ohxatyt6sno4jXzFJMybocMPxj2GVvBLKlAJQximIgkoh28iX7gUhJC+AK80dNRHTF3hhBnLo/KWYTuilcJ+cA==
+  dependencies:
+    async-validator "^4.0.7"
+    mitt "^3.0.0"
+    prettier "^2.6.2"
+    vue "^3.2.25"
+    vue-router "4"
+
 nice-try@^1.0.4:
   version "1.0.5"
   resolved "https://registry.npmmirror.com/nice-try/-/nice-try-1.0.5.tgz#a3378a7696ce7d223e88fc9b764bd7ef1089e366"
